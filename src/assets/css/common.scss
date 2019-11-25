@@ -1,0 +1,9 @@
+.table-grid tbody > tr > td {
+  line-height: 75px;
+  width: 100px;
+  min-width: 100px;
+  height: 100px;
+}
+.active-cell {
+  background-color: darkgoldenrod;
+}
